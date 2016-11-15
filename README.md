@@ -1,5 +1,6 @@
 # Javascript-Test-App
 In order to run it follow these steps:
+
 1. Set proxy
 
 npm config set proxy http://proxy.abc.com:3128 
