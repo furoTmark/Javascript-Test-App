@@ -1,0 +1,13 @@
+{
+	"name" : "javascript-test-app",
+	"version" : "0.0.0",
+	"description" : "Simple Javascript Test app",
+	"main" : "server.js",
+	"author" : "furoTmark",
+	"dependencies" : {
+		"body-parser" : "^1.4.3",
+		"express" : "^4.13.4",
+		"method-override" : "^2.1.3",
+		"morgan" : "^1.1.1"
+	}
+}
